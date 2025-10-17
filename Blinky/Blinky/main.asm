@@ -11,14 +11,23 @@ rjmp start
 
 ; Replace with your application code
 start:
-    ldi r16, (1 << PB1)
-    out DDRB, r16
+    ;ldi r16, (1 << PB1)
+    ;out DDRB, r16
+
+	ldi r16, 0xFF
+	out DDRB, r16
 
 MAIN_LOOP:
-    sbi PORTB, PB1
+    ;sbi PORTB, PB1
+
+	ldi r16, 0xFF
+	out PORTB, r16
     rcall DELAY
 
-    cbi PORTB, PB1
+    ;cbi PORTB, PB1
+
+	ldi r16, 0x00
+	out PORTB, r16
     rcall DELAY
 
     rjmp MAIN_LOOP

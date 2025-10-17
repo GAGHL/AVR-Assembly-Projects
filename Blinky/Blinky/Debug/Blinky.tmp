@@ -24,9 +24,9 @@
  </OUTPUT_FILES>
  <LABELS>
   <start><FILE>C:\Users\GAGHL\Documents\Atmel Studio\7.0\Blinky\Blinky\main.asm</FILE><LINE>13</LINE></start>
-  <MAIN_LOOP><FILE>C:\Users\GAGHL\Documents\Atmel Studio\7.0\Blinky\Blinky\main.asm</FILE><LINE>17</LINE></MAIN_LOOP>
-  <DELAY><FILE>C:\Users\GAGHL\Documents\Atmel Studio\7.0\Blinky\Blinky\main.asm</FILE><LINE>26</LINE></DELAY>
-  <OUTER_LOOP><FILE>C:\Users\GAGHL\Documents\Atmel Studio\7.0\Blinky\Blinky\main.asm</FILE><LINE>28</LINE></OUTER_LOOP>
-  <INNER_LOOP><FILE>C:\Users\GAGHL\Documents\Atmel Studio\7.0\Blinky\Blinky\main.asm</FILE><LINE>30</LINE></INNER_LOOP>
+  <MAIN_LOOP><FILE>C:\Users\GAGHL\Documents\Atmel Studio\7.0\Blinky\Blinky\main.asm</FILE><LINE>20</LINE></MAIN_LOOP>
+  <DELAY><FILE>C:\Users\GAGHL\Documents\Atmel Studio\7.0\Blinky\Blinky\main.asm</FILE><LINE>35</LINE></DELAY>
+  <OUTER_LOOP><FILE>C:\Users\GAGHL\Documents\Atmel Studio\7.0\Blinky\Blinky\main.asm</FILE><LINE>37</LINE></OUTER_LOOP>
+  <INNER_LOOP><FILE>C:\Users\GAGHL\Documents\Atmel Studio\7.0\Blinky\Blinky\main.asm</FILE><LINE>39</LINE></INNER_LOOP>
  </LABELS>
 </ASSEMBLER_INFO>
